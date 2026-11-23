@@ -1,4 +1,4 @@
-noalz-wifi-radarr
+
 name: Build APK
 on:
   push:
